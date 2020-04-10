@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/c-util.iml" filepath="$PROJECT_DIR$/c-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cutil.iml" filepath="$PROJECT_DIR$/cutil.iml" />
     </modules>
   </component>
 </project>

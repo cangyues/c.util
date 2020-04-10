@@ -1,10 +1,10 @@
 package dbs
 
 import (
+	json "cjson/qson"
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	json "qson"
 )
 
 type DB struct {

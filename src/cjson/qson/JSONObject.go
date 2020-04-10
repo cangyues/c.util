@@ -1,8 +1,8 @@
 package qson
 
 import (
+	json "cjson/simplejson"
 	"log"
-	json "simplejson"
 )
 
 type JSONObject struct {

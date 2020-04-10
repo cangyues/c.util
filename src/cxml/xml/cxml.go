@@ -1,9 +1,9 @@
 package cxml
 
 import (
+	"cjson/qson"
 	"cxml/etree"
 	"fmt"
-	"qson"
 )
 
 func XmlToJSON(path string) *qson.JSONObject {

@@ -1,9 +1,9 @@
 package qson
 
 import (
+	json "cjson/simplejson"
 	"container/list"
 	"log"
-	json "simplejson"
 )
 
 type JSONArray struct {
